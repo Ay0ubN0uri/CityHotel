@@ -33,3 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/RAT2/nbproject/private/
